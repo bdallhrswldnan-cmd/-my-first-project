@@ -1,2 +1,10 @@
-# -my-first-project
-My first website 
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Website</title>
+</head>
+<body>
+    <h1>Hello Abdullah!</h1>
+    <p>Welcome to my first website.</p>
+</body>
+</html>
